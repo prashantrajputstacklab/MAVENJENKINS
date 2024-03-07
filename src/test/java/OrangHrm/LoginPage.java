@@ -16,6 +16,7 @@ public class LoginPage {
 		driver.findElement(By.name("password")).sendKeys("admin123");
 		driver.findElement(By.xpath("//button[text()=' Login ']")).click();
 		System.out.println("Pass");
+		System.out.println("pass1");
 	}
  
 
