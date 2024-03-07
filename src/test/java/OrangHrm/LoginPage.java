@@ -17,6 +17,7 @@ public class LoginPage {
 		driver.findElement(By.xpath("//button[text()=' Login ']")).click();
 		System.out.println("Pass");
 		System.out.println("pass1");
+		System.out.println("pass2");
 	}
  
 
